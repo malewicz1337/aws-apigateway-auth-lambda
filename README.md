@@ -32,5 +32,4 @@ To use this Lambda function as an AWS API Gateway custom authorizer:
 3. Configure your AWS API Gateway to use this Lambda function as a custom authorizer.
 
 ## License
-
-MIT License.
+This project is open source and available under the [MIT License](LICENSE).
