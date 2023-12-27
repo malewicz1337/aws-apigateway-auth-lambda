@@ -22,7 +22,6 @@ The function relies on environment variables for configuration:
 
 This is the core function that evaluates the provided token. It compares the token with a hardcoded value (`"abc123"`) and returns an IAM policy document with `Allow` or `Deny` as the effect.
 
-
 ## Usage
 
 To use this Lambda function as an AWS API Gateway custom authorizer:
